@@ -1,4 +1,4 @@
-baseurl = "https://fucking-metal-blog.vercel.app/"
+baseURL = "https://fucking-metal-blog.vercel.app/"
 defaultContentLanguage = "en"
 locale = "en"
 title = "Wino's metal library"
