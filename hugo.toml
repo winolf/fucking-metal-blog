@@ -19,11 +19,11 @@ darkTheme = "forest"
 # backgroundImage = "img/global-background.jpg"
 # backgroundImageDark = ""
 
-author = "wino"
+author = "Winoiscute"
 # description = ""
 # avatar = "img/avatar.png"
 headerTitle = ""
-# motto = "Hi, iam Wino. This is my metal blog,sometimes other genres(not sure about this)"
+# motto = "Hi, iam Wino. This is my metal blog,sometimes others(not sure about this)"
 
 # footerBottomText = ""
 
@@ -56,7 +56,7 @@ siteStartYear = 2026
 # showSummaryCoverInPost = true
 # imageZoomableInPost = true
 # showPrevNextPost = true
-# reorderShares = ["x", "facebook", "whatsapp"]
+# reorderShares = []
 
 # [params.navItems]
 

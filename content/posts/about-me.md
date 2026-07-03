@@ -2,7 +2,7 @@
 title: About Me
 date: 2026-07-02T15:50:43+07:00
 lastmod: 2026-07-02T15:50:43+07:00
-author: Author Name
+author: Winoiscute
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /img/cover.jpg
