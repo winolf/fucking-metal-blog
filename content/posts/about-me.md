@@ -16,6 +16,7 @@ tags:
   - tag2
 # nolastmod: true
 # math: true
+weight : 1 
 draft: false
 ---
 Hi , welcome to my personal blog. In this blog , iam gonna review about metal albums, singles and concerts that i have tried. I sometimes review other music genres but that's just once in a while.
