@@ -18,7 +18,8 @@ tags:
 # math: true
 draft: false
 ---
-
+Hi , welcome to my personal blog. In this blog , iam gonna review about metal albums, singles and concerts that i have tried. I sometimes review other music genres but that's just once in a while.
+Who knows? i may do that "sometimes" usually:D
 
 
 <!--more-->
